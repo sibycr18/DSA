@@ -1,2 +1,2 @@
 # DSA
-DSA programs
+Repo containing all of my DSA programs
